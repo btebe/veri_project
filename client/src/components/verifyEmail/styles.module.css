@@ -1,0 +1,43 @@
+.page_con {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #dbece9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  color: #002945;
+  background-color: #ca91c2;
+  border-radius: 20px;
+  width: 180px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.load {
+  font-size: 14px;
+  color: #002945;
+  padding: 15px;
+}
+
+/**
+NOT FOUND PAGE
+**/
+.not_found_svg {
+  height: 200px;
+  margin-bottom: 30px;
+}
+.page_con h1 {
+  margin-bottom: 20px;
+  color: #002945;
+}
+.page_con h1 span {
+  color: #ca91c2;
+}

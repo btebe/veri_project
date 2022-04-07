@@ -1,0 +1,32 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #dbece9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  color: #002945;
+  background-color: #ca91c2;
+  border-radius: 20px;
+  width: 180px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.welcome_svg {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-bottom: 30px;
+}
+.home h1 {
+  margin-bottom: 30px;
+}
+
